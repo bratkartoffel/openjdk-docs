@@ -1,1 +1,2 @@
 openjdk24-24.0.1_p9-doc.tgz filter=lfs diff=lfs merge=lfs -text
+openjdk24-24.0.2_p12-doc.tgz filter=lfs diff=lfs merge=lfs -text
